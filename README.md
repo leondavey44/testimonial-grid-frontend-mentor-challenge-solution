@@ -26,10 +26,6 @@ Users should be able to:
 
 ![](./images/screenshot.png)
 
-### Links
-
-- Solution URL: [Add solution URL here](https://github.com/leondavey44/testimonial-grid-frontend-mentor-challenge-solution?)
-
 ## My process
 
 To follow the brief as accurately as possible!
@@ -45,9 +41,9 @@ To follow the brief as accurately as possible!
 
 I have learned the benefits of flexbox for designing an optimal layout for mobile devices, so the layout will adjust depending on the users screen size.
 
-<h1>
+<h2>
   If you are interested in seeing what CSS I have used in this challenge see my style.css file in Github.
-</h1>
+</h2>
 
 ### Continued development
 
@@ -55,4 +51,4 @@ This was a short project to grasp flexbox a little deeper before moving onto my 
 
 ### Useful resources
 
-- [Example resource 1](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7/hub) - This is where I found the project brief for the challenge. Great website and I will use it going forward.
+- [Front End Mentor](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7/hub) - This is where I found the project brief for the challenge. Great website and I will use it going forward.
